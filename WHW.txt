@@ -1,1 +1,3 @@
 6th December => Intro to HTML, Request-response cycle, Attributes, Headings, Text formatting tags, Tags vs Elements, Empty elements, CSS: background-color, color, height, width, Square practice, Cricket homework, "div", "pre" and "a" tags, 
+
+7th December => img tag, list-related tags, Practice-2 (India).
