@@ -1,0 +1,11 @@
+code . 
+ls 
+ls -lart 
+cd .. 
+rm -rf "File-name" 
+touch "File-name" 
+git config 
+git init 
+git add "File-name" 
+git commit -m "My first version" 
+git status.
