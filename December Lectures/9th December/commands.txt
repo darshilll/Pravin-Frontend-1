@@ -9,3 +9,15 @@ git init
 git add "File-name" 
 git commit -m "My first version" 
 git status.
+
+git add . && git commit -m "Some message"
+git log
+git reset --hard HEAD
+git reset --hard "commit-id"
+
+To list the branches: git branch.
+git branch "branch-name"
+git checkout "branch-name"
+Shortcut: git checkout -b "branch-name"
+git merge "branch-name" (in the master)
+Never switch to a branch, without committing the changes in the current branch.

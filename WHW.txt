@@ -5,3 +5,5 @@
 8th December => table, Semantic tags, Form-related tags, HTML symbols, Favicon, Ticket registration practice, Install Git and Signup in GitHub
 
 9th December => Ticket registration Project discussion, Git basic commands.
+
+10th December => Completed Git.
