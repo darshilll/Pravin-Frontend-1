@@ -7,3 +7,5 @@
 9th December => Ticket registration Project discussion, Git basic commands.
 
 10th December => Completed Git.
+
+11th December => Completed GitHub.

@@ -21,3 +21,12 @@ git checkout "branch-name"
 Shortcut: git checkout -b "branch-name"
 git merge "branch-name" (in the master)
 Never switch to a branch, without committing the changes in the current branch.
+
+git clone "repository-link"
+git remote add origin "repository-link"
+git push -u origin master
+git remote -v
+
+Always pull the remote-version from the master branch:
+git remote add upstream "repository-link"
+git pull upsteam master
