@@ -9,3 +9,5 @@
 10th December => Completed Git.
 
 11th December => Completed GitHub.
+
+12th December => CSS intro, W3C, 3 types of CSS styling, span, link, border, viewport, responsiveness, stylesheet, color (HEX and rgb), Powertoys, display (block and inline).

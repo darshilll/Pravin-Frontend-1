@@ -1,0 +1,15 @@
+div {
+    display: block;
+    background-color: red;
+    height: 200px;
+}
+
+span {
+    background-color: green;
+    height: 200px;
+    width: 100px;
+}
+
+p {
+    background-color: orange;
+}
