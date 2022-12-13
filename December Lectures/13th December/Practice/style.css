@@ -2,9 +2,10 @@ h1 {
     background-color: greenyellow;
 }
 
-/* IMP trick to use span: */
+/* IMP trick: Use a span to style a certain part of the content (separately): */
 span {
     background-color: lightblue;
+    /* Example of cascade: */
     color: black;
     border: 3px solid red;
 }
