@@ -1,0 +1,55 @@
+/* h1 {
+    display: inline;
+    background-color: red;
+    height: 100px;
+    width: 300px;
+}
+
+span {
+    display: block;
+    background-color: lime;
+    height: 100px;
+    width: 300px;
+} */
+
+/* p {
+    display: inline-block;
+    height: 100px;
+    background-color: red;
+} */
+
+/* img {
+    height: 500px;
+    width: 200px;
+} */
+
+/* span {
+    background-color: red;
+}
+
+div {
+    font-size: 0;
+}
+
+span {
+    font-size: 16px;
+}
+
+p {
+    display: none;
+} */
+
+/* div {
+    height: 100px;
+    width: 300px;
+    background-color: red;
+} */
+
+/* span {
+    background-color: aqua;
+    float: right;
+} */
+
+img {
+    float: right;
+}

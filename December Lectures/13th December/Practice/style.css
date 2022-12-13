@@ -1,0 +1,20 @@
+h1 {
+    background-color: greenyellow;
+}
+
+/* IMP trick to use span: */
+span {
+    background-color: lightblue;
+    color: black;
+    border: 3px solid red;
+}
+
+pre {
+    border: 10px solid yellow;
+}
+
+div {
+    color: blue;
+    border: 2px solid red;
+    background-color: rgba(255, 140, 0, 0.1);
+}
