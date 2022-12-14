@@ -1,0 +1,31 @@
+/* div {
+    background-color: red;
+}
+
+.green_color {
+    background-color: green;
+}
+
+.border_blue {
+    border: 3px solid blue;
+} */
+
+/* #first {
+    background-color: blue;
+} */
+
+/* .spacing {
+    height: 1000px;
+    background-color: red;
+} */
+
+div {
+    background-color: red;
+    height: 300px;
+    width: 400px;
+}
+
+span {
+    background-color: aqua;
+    float: right;
+}
