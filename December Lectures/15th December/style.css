@@ -1,0 +1,67 @@
+/* p {
+    background-color: gray;
+    color: white;
+} */
+
+/* p,
+.dummy,
+.main {
+    background-color: gray;
+    color: white;
+} */
+
+/* #something {
+    background-color: pink;
+} */
+
+/* Descendant selector: */
+/* main p {
+    color: blue;
+} */
+
+/* Immediate children selector: */
+/* .first_div > span {
+    color: blue;
+} */
+
+/* Immediate sibling selector: */
+/* .second_div + span {
+    color: blue;
+} */
+
+/* General siblings selector: */
+/* .third_div ~ span {
+    color: blue;
+} */
+
+/* input[type="text"] {
+    background-color: blue;
+}
+
+.attribute_selectors {
+    background-color: gray;
+} */
+
+/* .div1.div2 {
+    color: blue;
+}
+
+.div2#some {
+    color: green;
+}
+
+.some#some1 {
+    color: pink;
+} */
+
+/* p,
+div,
+h1,
+span {
+    color: blue;
+} */
+
+/* Wildcard (universal) selector */
+* {
+    color: blue;
+}

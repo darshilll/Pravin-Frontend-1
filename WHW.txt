@@ -15,3 +15,5 @@
 13th December => Practice work, completed display property, float.
 
 14th December => class and id, Practice work.
+
+15th December => Selectors and 9 questions practice.
