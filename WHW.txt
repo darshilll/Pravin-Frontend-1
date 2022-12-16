@@ -16,4 +16,6 @@
 
 14th December => class and id, Practice work.
 
-15th December => Selectors and 9 questions practice.
+15th December => Selectors and 9 practice questions based on it.
+
+16th December => Advance Selectors practice (Mukesh).
