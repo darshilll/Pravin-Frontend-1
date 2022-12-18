@@ -19,3 +19,5 @@
 15th December => Selectors and 9 practice questions based on it.
 
 16th December => Advance Selectors practice (Mukesh).
+
+17th December => Inheritance and overriding, Best practices, Utility classes, separator, forethought naming of the classes, 
