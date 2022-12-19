@@ -21,3 +21,5 @@
 16th December => Advance Selectors practice (Mukesh).
 
 17th December => Inheritance and overriding, Best practices, Utility classes, separator, forethought naming of the classes, 
+
+18th December => Box model (padding, border, margin, content), CSS resets, margin-collapse, margin: auto, border-style-types, shorthands for padding, border and margin, margin-collapse between the parent and the child, Box sizing, 
