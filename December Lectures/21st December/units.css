@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,700;1,400;1,800&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* .vh_vw {
+    background-color: red;
+    height: 50vh;
+    width: 50vw;
+    height: 300px;
+    width: 300px;
+}
+
+h1 {
+    height: 40vh;
+    width: 40vw;
+    font-size: 10vh;
+} */
+
+/* 1em = 16px by default. */
+
+/* rem => root-em */
+
+/* .parent {
+    font-size: 20px;
+}
+
+.container-1 {
+    font-size: 2em;
+}
+
+.em {
+    font-size: 2em;
+} */
+
+/* html {
+    font-size: 10px;
+}
+
+.parent {
+    font-size: 20px;
+}
+
+.container-2 {
+    font-size: 2em;
+}
+
+.rem {
+    font-size: 48px;
+} */
+
+/* font-size: rem, width: % or rem, margin: rem, padding: em, height (min-height, max-height) */
+
+/* .parent {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    font-size: 30px;
+}
+
+.child {
+    font-size: 10px;
+    height: 2rem;
+    width: 2rem;
+    background-color: lightblue;
+}
+
+.parent-2 {
+    min-height: 5rem;
+    background-color: lightblue;
+    font-size: 80px;
+    padding: 1em;
+} */
+
+/* p {
+    font-family: 'Popins', sans-serif;
+} */
+
+/* Styling text: */
+p {
+    /* color: white; */
+    /* background-color: red; */
+    /* margin: auto; */
+    /* text-align: center; */
+    /* text-align-last: center; */
+    /* margin-top: 10rem;
+    text-decoration: line-through yellow 10px; */
+    /* style, color, thickness */
+
+    /* word-spacing: 10px; */
+    /* letter-spacing: 1px; */
+
+    font-size: 3rem;
+    line-height: 1.5;
+}

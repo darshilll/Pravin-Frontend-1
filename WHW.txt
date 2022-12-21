@@ -27,3 +27,5 @@
 19th December => Box model (padding, border, margin, content), CSS resets, margin-collapse, margin: auto, border-style-types, shorthands for padding, border and margin, margin-collapse between the parent and the child, Box sizing, 
 
 20th December => Box sizing practice, Practiced margin, padding, and best practices, CSS units started (%).
+
+21st December => Completed CSS units (vh-vw, em-rem), What to prefer when (units), Fonts and styling text (text-align, text-decoration, word-spacing, letter-spacing, line-height), First CSS project.
