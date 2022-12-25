@@ -35,3 +35,5 @@
 23rd December => "Landing page" website discussion.
 
 24th December => Background-images, Pseudo classes, Practice-work for pseudo classes, Specificiy, Opacity, "opacity" vs "display: none" vs "visibility: hidden".
+
+25th December => Completed Advance Selectors of Hadi and Yunus, Discussed 1st practical use-case work of Selectors, 
