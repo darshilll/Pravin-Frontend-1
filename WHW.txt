@@ -37,3 +37,5 @@
 24th December => Background-images, Pseudo classes, Practice-work for pseudo classes, Specificiy, Opacity, "opacity" vs "display: none" vs "visibility: hidden".
 
 25th December => Completed Advance Selectors of Hadi and Yunus, Discussed 1st practical use-case work of Selectors, 
+
+26th December => Discussed solutions(2) of the practice use-cases of Selectors.
