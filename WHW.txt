@@ -39,3 +39,5 @@
 25th December => Completed Advance Selectors of Hadi and Yunus, Discussed 1st practical use-case work of Selectors, 
 
 26th December => Discussed solutions(2) of the practice use-cases of Selectors.
+
+27th December => Completed the lamp work.
