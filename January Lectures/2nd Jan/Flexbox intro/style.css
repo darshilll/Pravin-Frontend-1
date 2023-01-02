@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gray;
+    padding: 5em 0;
+}
+
+.parent {
+    width: 50%;
+    background-color: #c065b3;
+    margin: auto;
+    border-radius: 10px;
+    padding: 1em;
+
+    display: flex;
+}
+
+.child {
+    width: 30%;
+    height: 5rem;
+    background-color: #ffb4da;
+    border: 2px solid #b3a0a8;
+    margin: 0.5rem;
+}
