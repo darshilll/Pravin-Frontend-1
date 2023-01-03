@@ -45,3 +45,5 @@
 28th to 1st Jan => Holiday.
 
 2nd Jan => Diary class-work discussion, Flexbox presentation.
+
+3rd Jan => All the Flexbox properties.
