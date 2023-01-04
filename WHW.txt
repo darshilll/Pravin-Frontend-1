@@ -47,3 +47,5 @@
 2nd Jan => Diary class-work discussion, Flexbox presentation.
 
 3rd Jan => All the Flexbox properties.
+
+4th Jan => Flexbox froggy game, Overflow property, Project assigned.
