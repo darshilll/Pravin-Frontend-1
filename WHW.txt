@@ -51,3 +51,5 @@
 4th Jan => Flexbox froggy game, Overflow property, Project assigned.
 
 5th Jan => Doubts resolving.
+
+6th Jan => Flex practice revision.
