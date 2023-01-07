@@ -53,3 +53,5 @@
 5th Jan => Doubts resolving.
 
 6th Jan => Flex practice revision.
+
+7th Jan => Completed "Book my match" discussion.

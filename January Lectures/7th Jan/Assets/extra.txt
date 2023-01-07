@@ -1,0 +1,15 @@
+Google font:
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,400&display=swap');
+
+Countries:
+India
+Australia
+Pakistan
+England
+Srilanka
+West Indies
+Zimbabwe
+Bangladesh
+UAE
+Nepal
+Afghanistan
