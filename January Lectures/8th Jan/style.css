@@ -1,0 +1,205 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: .5em;
+}
+
+.box {
+    /* height: 10rem;
+    width: 10rem;
+    background-color: red;
+    cursor: pointer; */
+
+    /* transition-duration */
+
+    /* transition-duration: 300ms; */
+    /* transition-property: background-color, height; */
+    /* transition-delay: 1000ms; */
+    /* transition-timing-function: linear; */
+
+    /* transition: height 300ms 1000ms ease-in-out; */
+    /* transition: height 300ms ease-in-out; */
+}
+
+.box:hover {
+    /* background-color: green; */
+    /* height: 20rem; */
+}
+
+
+.box {
+    /* width: 8rem;
+    height: 8rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.box1 {
+    background-color: lightblue;
+
+    /* TRBL values: */
+    /* top: 50px; */
+
+    position: relative;
+    /* left: 50px; */
+
+    /* top: 10px; */
+    /* bottom: 0; */
+
+    /* top: -20px; */
+    /* left: 50px; */
+}
+
+.child {
+    background-color: red;
+    /* height: 100%;
+    width: 100%; */
+
+    /* position: absolute; */
+    /* top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; */
+
+    /* inset: 10px 20px; */
+}
+
+.box2 {
+    background-color: lightcoral;
+
+    /* position: absolute; */
+    /* left: 500px; */
+    /* bottom: 0; */
+
+
+}
+
+.box3 {
+    background-color: lime;
+
+    /* position: fixed;
+    top: 50%;
+    left: 50%; */
+}
+
+.box4 {
+    background-color: orangered;
+}
+
+.parent {
+    /* height: 30rem;
+    width: 30%;
+    background-color: red; */
+
+}
+
+.sub_parent {
+    /* height: 20rem;
+    width: 70%;
+    background-color: green;
+    position: relative; */
+}
+
+.child {
+    /* height: 5rem;
+    width: 10rem;
+    background-color: yellow; */
+
+    /* position: absolute; */
+    /* left: 50%; */
+
+    /* height: 50%;
+    width: 50%; */
+
+    /* bottom: 0; */
+
+    /* position: fixed;
+    top: 50%;
+    left: 50%; */
+}
+
+/* .boxstick {
+    height: 70rem;
+    width: 20rem;
+    background-color: blue;
+}
+
+.box5 {
+    background-color: lime;
+    width: 10rem;
+    height: 10rem;
+
+    position: sticky;
+    top: 20%;
+} */
+
+
+
+.parent {
+    background-color: red;
+    height: 30rem;
+    width: 80%;
+    margin: 2rem auto;
+    padding: 1em;
+}
+
+/* .child {
+    height: 10rem;
+    width: 8rem;
+    border: 1px solid green;
+
+    position: absolute;
+}
+
+.child1 {
+    background-color: lime;
+    z-index: 1;
+} */
+
+/* .child2 {
+    background-color: white;
+
+    left: 8rem;
+} */
+
+/* .child3 {
+    background-color: lightblue;
+
+    top: 7rem;
+    z-index: 2;
+} */
+
+.child {
+    position: absolute;
+}
+
+.child1 {
+    background-color: yellow;
+    height: 15rem;
+    width: 10rem;
+
+    z-index: 10;
+}
+
+.wrapper {
+    height: 10rem;
+    width: 10rem;
+    background-color: blue;
+
+    left: 30%;
+    z-index: 20;
+}
+
+.child2 {
+    width: 70%;
+    height: 70%;
+    background-color: lime;
+
+    z-index: 1000;
+}
