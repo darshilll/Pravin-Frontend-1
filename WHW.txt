@@ -57,3 +57,5 @@
 7th Jan => Completed "Book my match" discussion.
 
 8th Jan => Transition, Position, Z-index.
+
+9th Jan => Assigned the "Positioning" practice work, Google icons, Separation of concerns.
