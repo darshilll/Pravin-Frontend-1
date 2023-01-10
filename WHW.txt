@@ -34,7 +34,7 @@
 
 23rd December => "Landing page" website discussion.
 
-24th December => Background-images, Pseudo classes, Practice-work for pseudo classes, Specificiy, Opacity, "opacity" vs "display: none" vs "visibility: hidden".
+24th December => Background-images, Pseudo classes, Practice-work for pseudo classes, Specificity, Opacity, "opacity" vs "display: none" vs "visibility: hidden".
 
 25th December => Completed Advance Selectors of Hadi and Yunus, Discussed 1st practical use-case work of Selectors, 
 
@@ -59,3 +59,5 @@
 8th Jan => Transition, Position, Z-index.
 
 9th Jan => Assigned the "Positioning" practice work, Google icons, Separation of concerns.
+
+10th Jan => "Positioning" practice work discussion.
