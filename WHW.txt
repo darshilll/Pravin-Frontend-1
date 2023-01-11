@@ -61,3 +61,5 @@
 9th Jan => Assigned the "Positioning" practice work, Google icons, Separation of concerns.
 
 10th Jan => "Positioning" practice work discussion.
+
+11th Jan => Completed the solution of "Positioning" practice work.
