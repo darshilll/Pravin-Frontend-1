@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+p {
+    /* font-size: 2rem; */
+    /* background-color: red; */
+}
+
+p::first-letter {
+    /* background-color: yellow; */
+}
+
+/* p::first-line {
+    color: yellow;
+} */
+
+/* p::selection {
+    background-color: green;
+    color: yellow;
+} */
+
+/* body {
+    padding: 2em;
+}
+
+.element {
+    height: 10rem;
+    width: 10rem;
+    background-color: red;
+    position: relative;
+} */
+
+/* .mask {
+    background-color: rgb(145, 13, 13);
+    width: 5rem;
+    height: 10rem;
+    position: fixed;
+    top: 5.2%;
+} */
+
+.element::before {
+    /* content: '';
+    position: absolute;
+    height: 10rem;
+    width: 5rem;
+    background-color: aqua; */
+
+    /* content: "I'm the additional content"; */
+    /* content: 'I\'m the additional content'; */
+    /* content: '';
+    height: 3rem;
+    width: 3rem;
+    background-color: yellow;
+    position: absolute;
+    bottom: -30%; */
+
+    /* content: 'I\'m the content before the element'; */
+}
+
+/* .element::after {
+    content: 'I\'m the content afer the element';
+} */
+
+/* p::before {
+    content: '\201C';
+}
+
+p::after {
+    content: '\201D';
+} */
+
+.element {
+    /* cursor: pointer; */
+}
+
+/* .element::before {
+    content: '';
+    height: 30%;
+    width: 30%;
+    position: absolute;
+    background-color: yellow;
+} */
+
+.element:hover::before {
+    /* background-color: green; */
+}
+
+p::before {
+    /* content: 'I am the content'; */
+}
+
