@@ -1,0 +1,48 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.paragraph {
+    font-size: 2rem;
+}
+
+/* @media (max-width: 500px) {
+    .paragraph {
+        background-color: green;
+    }
+}
+
+@media (max-width: 400px) {
+    .paragraph {
+        background-color: red;
+    }
+} */
+
+@media (min-width: 700px) {
+    .paragraph {
+        background-color: green;
+    }
+}
+
+@media (min-width: 500px) {
+    .paragraph {
+        background-color: red;
+    }
+}
+
+@media (min-width: 300px) {
+    .paragraph {
+        background-color: aqua;
+    }
+}
+
+/* RWD: Mobile first approach */
+
+/* min-width and max-width */
+/* min-width: 500px (starting-from) */
+/* max-width: 500px (up-to) */
+

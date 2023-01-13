@@ -65,3 +65,5 @@
 11th Jan => Completed the solution of "Positioning" practice work (nth-child, calc, flex-grow use-case, background-attachment, transitioning technique).
 
 12th Jan => Pseudo elements, Practice work: Drop cap, Wavy Selection, and Tool tip.
+
+13th Jan => Media query, Basic practice work based on Media query (using "and"), Organizing CSS files, Mini project with Flexbox and Media-query. 
