@@ -67,3 +67,5 @@
 12th Jan => Pseudo elements, Practice work: Drop cap, Wavy Selection, and Tool tip.
 
 13th Jan => Media query, Basic practice work based on Media query (using "and"), Organizing CSS files, Mini project with Flexbox and Media-query. 
+
+14th Jan => Border radius, outline, box-shadow, text shadow, transform (translate, rotate, and scale).
