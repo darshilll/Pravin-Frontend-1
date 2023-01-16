@@ -71,3 +71,5 @@
 14th Jan => Border radius, outline, box-shadow, text shadow, transform (translate, rotate, and scale).
 
 15th Jan => Discussed "Media query + Flexbox" practice work.
+
+16th Jan => Completed "Media query + Flexbox" practice work, Started "3 buttons" practice work.

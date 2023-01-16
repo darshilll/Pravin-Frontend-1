@@ -1,0 +1,61 @@
+@media (max-width: 800px) {
+    .hero_section {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .explore_link {
+        align-self: center;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .container_image {
+        align-self: flex-start;
+    }
+
+    .container_two {
+        flex-direction: column-reverse;
+    }
+}
+
+@media (max-width: 600px) {
+    .boxes_container {
+        flex-wrap: wrap;
+    }
+
+    .box {
+        /* As the gap is of 1rem, we cut down ".5rem" of each adjacent boxes. This would still maintain the gap of 1rem. */
+        width: calc(50% - .5rem);
+    }
+
+    .box1 {
+        order: 1;
+    }
+
+    .box4 {
+        order: -1;
+    }
+}
+
+@media (max-width: 550px) {
+    .container_image img {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 450px) {
+    .hero_image_container img {
+        max-width: 100%;
+    }
+
+    .boxes_container {
+        flex-direction: column;
+    }
+
+    .box {
+        width: 100%;
+    }
+}
