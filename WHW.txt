@@ -73,3 +73,5 @@
 15th Jan => Discussed "Media query + Flexbox" practice work.
 
 16th Jan => Completed "Media query + Flexbox" practice work, Started "3 buttons" practice work.
+
+17th Jan => Discussed "Buttons with outline" practice work, Hamburger-menu working, Gamers Hub overview.

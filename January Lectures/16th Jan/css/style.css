@@ -76,5 +76,5 @@
     font-size: 1.7rem;
     font-weight: bolder;
 
-    transition: order 5s ease-in-out;
+    transition: order 5000ms ease-in-out;
 }
