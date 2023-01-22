@@ -1,0 +1,88 @@
+.navbar {
+    padding: 1em 3em;
+
+    display: flex;
+    justify-content: space-between;
+
+    background-color: rgba(128, 128, 128, .7);
+
+    
+}
+
+.navigation_bar {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.navigation_bar>* {
+    transition: opacity 300ms ease-in-out;
+}
+
+.navigation_bar>*:hover {
+    opacity: .5;
+}
+
+.profile {
+    background-color: white;
+
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+
+    position: relative;
+}
+
+.person {
+    color: black;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: absolute;
+    padding: 2em;
+
+    right: -40%;
+    top: 60%;
+
+    cursor: pointer;
+
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 500ms ease-in-out;
+}
+
+.dropdown>* {
+    padding: 1em 3.5em;
+    border: 2px solid white;
+    border-bottom: none;
+    border-radius: 10px;
+    text-align: center;
+
+    transition: background-color 500ms ease-in-out;
+}
+
+/* .dropdown>*:last-child {
+    border-bottom: 2px solid white;
+} */
+
+.dropdown>*:nth-child(3) {
+    border-bottom: 2px solid white;
+}
+
+.profile:hover>.dropdown {
+    visibility: visible;
+    opacity: 1;
+}
+
+.dropdown:hover {
+    visibility: visible;
+    opacity: 1;
+}
+
+.dropdown>*:hover {
+    background-color: rgba(0, 255, 255, .7);
+}

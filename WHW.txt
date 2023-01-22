@@ -75,3 +75,11 @@
 16th Jan => Completed "Media query + Flexbox" practice work, Started "3 buttons" practice work.
 
 17th Jan => Discussed "Buttons with outline" practice work, Hamburger-menu working, Gamers Hub overview.
+
+18th, 19th Jan => Holiday.
+
+20th Jan => "Gamers Hub" project discussion.
+
+21st Jan => Holiday.
+
+22nd Jan => Discussion of "Gamers Hub" project. Completed Hero-title and Navbar + Dropdown.
