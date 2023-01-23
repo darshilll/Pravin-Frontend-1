@@ -83,3 +83,5 @@
 21st Jan => Holiday.
 
 22nd Jan => Discussion of "Gamers Hub" project. Completed Hero-title and Navbar + Dropdown.
+
+23rd Jan => Completed the "Gamers Hub" project's solution.
