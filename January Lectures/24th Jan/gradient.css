@@ -1,0 +1,36 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 3em;
+}
+
+.box1 {
+    margin: auto;
+    height: 10rem;
+    width: 10rem;
+
+    /* background-color: red; */
+    /* background-image: linear-gradient(to top right, red, blue); */
+
+    background-image: linear-gradient(to top right, orangered, rgba(243, 137, 99, 0.562));
+    margin-bottom: 10rem;
+
+    background-clip: text;
+
+}
+
+.box2 {
+    margin: auto;
+    height: 10rem;
+    width: 10rem;
+
+    /* background-color: red; */
+    /* background-image: linear-gradient(to top right, red, blue); */
+
+    background-color: orangered;
+
+}

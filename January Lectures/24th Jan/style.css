@@ -1,0 +1,123 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 1em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    gap: 3rem;
+}
+
+.btn {
+    padding: 1em 2em;
+    border: none;
+    background-color: transparent;
+
+    border: 2px solid lime;
+    border-radius: 10px;
+
+    cursor: pointer;
+    transition: transform 300ms ease-in-out, background-color 300ms ease-in-out;
+}
+
+.main_container {
+    border: 4px solid black;
+
+    height: 70vh;
+    width: 60%;
+}
+
+.ball_container {
+    position: relative;
+
+    height: 60%;
+}
+
+.ball {
+    position: absolute;
+
+    background-color: red;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+
+    /* bottom: calc(100% - 3rem);
+    transition: bottom 700ms ease-in-out; */
+}
+
+.blue_container {
+    background-color: lightblue;
+    height: 40%;
+}
+
+.btn:hover {
+    background-color: yellow;
+}
+
+.btn:focus {
+    background-color: lime;
+}
+
+.btn:active {
+    transform: translateY(5px);
+}
+
+.btn:focus+.main_container .ball {
+    /* bottom: 0; */
+
+    /* animation-name: my_ball_animation;
+    animation-duration: 1000ms;
+    animation-timing-function: ease-in-out; */
+    /* animation-delay: 1000ms; */
+
+    /* animation-iteration-count: infinite;
+    animation-direction: alternate; */
+
+    /* animation-fill-mode: forwards; */
+
+    /* animation: my_ball_animation_advance 5000ms ease-in-out 10ms infinite alternate forwards; */
+}
+/* 
+@keyframes my_ball_animation {
+    from {
+        bottom: calc(100% - 3rem);
+        background-color: red;
+    }
+
+    to {
+        bottom: 0;
+        background-color: green;
+    }
+}
+
+@keyframes my_ball_animation_advance {
+    0% {
+        bottom: calc(100% - 3rem);
+    }
+
+    25%{
+        left: 0;
+        bottom: 0;
+    }
+
+    50% {
+        bottom: 0;
+        left: calc(100% - 3rem);
+    }
+
+    75% {
+        left: calc(100% - 3rem);
+    }
+
+    100% {
+        top: 0;
+        left: 0;
+    }
+} */

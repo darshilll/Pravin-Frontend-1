@@ -1,0 +1,68 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --my-new-property: green;
+}
+
+body {
+    padding: 5em 1em;
+}
+
+.black_padding_border {
+    border: 2px solid black;
+    padding: 1em;
+}
+
+.container {
+    --my-color: red;
+    /* --my-flex-direction: row; */
+
+    height: 20rem;
+
+    display: flex;
+    /* flex-direction: var(--my-flex-direction); */
+    gap: 1rem;
+
+    /* background-color: var(--my-property, blue); */
+}
+
+.parent {
+    width: 100%;
+}
+
+.parent>* {
+    height: 50%;
+    margin-bottom: .5rem;
+}
+
+.parent {
+    /* CSS => Custom properties: */
+    /* --my-property: yellow; */
+}
+
+.child1 {
+
+    /* background-color: var(--my-property);
+    color: var(--my-property); */
+}
+
+.parent1 {
+    --my-color: blue;
+}
+
+.child {
+    color: var(--my-color);
+    background-color: var(--my-new-property);
+}
+
+@media (max-width: 600px) {
+    .container {
+        /* --my-flex-direction: column; */
+    }
+}
